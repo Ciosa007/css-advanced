@@ -1,0 +1,9 @@
+.main-content {
+  display: flex;
+  height: calc(100vh - $header-height);
+}
+
+.content-area {
+  background-color: greenyellow;
+  flex-grow: 1;
+}
