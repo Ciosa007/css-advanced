@@ -1,4 +1,7 @@
+@import '../node_modules/bootstrap/scss/bootstrap-grid.scss';
 @import 'base/reset';
 @import 'base/variables';
 @import 'components/background-box';
-@import 'layout/header'
+@import 'layout/header';
+@import 'components/filtres';
+@import 'components/gradients';

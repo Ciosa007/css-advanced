@@ -1,4 +1,38 @@
 .sidebar {
   width: $sidebar-width;
-  background-color: pink;
+  background-color: rgb(255, 255, 255);
+  margin-left: 10px;
+  font-size: 20px;
+  color:rgb(17, 0, 255);
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.menu-aside {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #fffefe;
+  overflow: auto;
+}
+
+.menu-aside a {
+  display: block;
+  color: black;
+  padding: 15px;
+  text-decoration: none;
+}
+
+
+.menu-aside a:hover:not(.active) {
+  background-color: rgb(232, 232, 232);
+  color: rgb(5, 5, 5);
+  border-left: 4px solid black;
+  border-right: 4px solid black;
+  font-size: 25px;
+}
+
+div.content {
+  margin-left: 200px;
+
 }
