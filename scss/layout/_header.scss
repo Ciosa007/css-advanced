@@ -1,32 +1,13 @@
 .header {
   height: $header-height;
-  background-color: rgba(245, 244, 243, 0.178);
+  background-color: rgb(121, 144, 247);
+  display: flex;
+  justify-content: flex-end;
 }
 
 .devices {
   display: flex;
-  justify-content: flex-end;
+  align-items: center;
   gap: 30px;
-  padding-top: 30px;
-  padding-right: 100px;
-}
-
-.search {
-  display: flex;
-  align-content: center;
-}
-
-.button {
-  all: unset;
-  cursor: pointer;
-  width: 44px;
-  height: 44px;
-}
-
-.svg {
-  color: #fff;
-  fill: currentColor;
-  width: 30px;
-  height: 30px;
-  padding: 10px;
+  margin-right: 100px;
 }

@@ -1,0 +1,168 @@
+.section__title {
+  font-size: 36px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.filter-box {
+  margin-top: 24px;
+}
+
+.filter-box--1 {
+  &:hover {
+    img {
+      filter: blur(5px);
+    }
+  }
+}
+.filter-box--2 {
+  &:hover {
+    img {
+      filter: brightness(0.5);
+    }
+  }
+}
+
+.filter-box--3 {
+  &:hover {
+    img {
+      filter:contrast(0.4);
+    }
+  }
+}
+
+.filter-box--4 {
+  &:hover {
+    img {
+      filter:grayscale(20);
+    }
+  }
+}
+
+.filter-box--5 {
+  &:hover {
+    img {
+      filter:invert(100%);
+    }
+  }
+}
+
+.filter-box--6 {
+  &:hover {
+    img {
+      filter: drop-shadow(8px 8px 10px gray);
+    }
+  }
+}
+
+.filter-box--7 {
+  &:hover {
+    img {
+      filter: brightness(15);
+    }
+  }
+}
+
+.filter-box--8 {
+  &:hover {
+    img {
+      filter:saturate(9);
+    }
+  }
+}
+
+.filter-box--9 {
+  &:hover {
+    img {
+      filter:blur(10px);
+    }
+  }
+}
+
+.filter-box--10 {
+  &:hover {
+    img {
+      filter:sepia(100%);
+    }
+  }
+}
+
+.filter-box--11 {
+  &:hover {
+    img {
+      filter:hue-rotate(90deg)
+    }
+  }
+}
+
+.filter-box--12 {
+  &:hover {
+    img {
+      filter:inherit
+    }
+  }
+}
+
+.filter-box--13 {
+  &:hover {
+    img {
+      filter:brightness(19)
+    }
+  }
+}
+
+.filter-box--14 {
+  &:hover {
+    img {
+      filter:sepia(100%)
+    }
+  }
+}
+
+.filter-box--15 {
+  &:hover {
+    img {
+      filter:contrast(23)
+    }
+  }
+}
+
+.filter-box--16 {
+  &:hover {
+    img {
+      filter:opacity(50%)
+    }
+  }
+}
+
+.filter-box--17 {
+  &:hover {
+    img {
+      filter:invert(100%)
+    }
+  }
+}
+
+.filter-box--18 {
+  &:hover {
+    img {
+      filter:drop-shadow(10px 10px 15px black)
+    }
+  }
+}
+
+.filter-box--19 {
+  &:hover {
+    img {
+      filter:hue-rotate(135deg)
+    }
+  }
+}
+
+.filter-box--20 {
+  &:hover {
+    img {
+      filter:invert(100%)
+    }
+  }
+}

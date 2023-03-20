@@ -1,0 +1,86 @@
+.gradient-box {
+  width: 300px;
+  height: 300px;
+  margin-top: 24px;
+}
+
+
+.gradient-box--1 {
+  background: linear-gradient(#e66465, #324e36);
+}
+
+.gradient-box--2 {
+  background: linear-gradient(#e01717, #9198e5);
+}
+
+.gradient-box--3 {
+  background: linear-gradient(90deg, red, yellow);
+}
+
+.gradient-box--4 {
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);;
+}
+
+.gradient-box--5 {
+  background: repeating-linear-gradient(red, yellow 10%, green 20%);
+}
+
+.gradient-box--6 {
+  background: radial-gradient(#f00707, #030e80);
+}
+
+.gradient-box--7 {
+  background: conic-gradient(#fa0202, #04b30d, blue);
+}
+
+.gradient-box--8 {
+  background: linear-gradient(to right top, #d8278c, #cb35a3, #b844b8, #9e52ca, #7c5fd9, #5f6cde, #3d76df, #007edd, #0086ce, #0088b4, #008897, #0b857d);;
+}
+
+.gradient-box--9 {
+  background:radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(5,5,207,1) 35%, rgba(76,246,53,1) 62%, rgba(239,0,255,1) 100%);
+}
+
+.gradient-box--10 {
+  background: repeating-linear-gradient(315deg, #00FFFF2E 92%, #073AFF00 100%),radial-gradient(99% 99% at 109% 2%, #00C9FFFF 0%, #073AFF00 100%),radial-gradient(99% 99% at 21% 78%, #7B00FFFF 0%, #073AFF00 100%),radial-gradient(160% 154% at 711px -303px, #2000FFFF 0%, #073AFFFF 100%);
+}
+
+.gradient-box--11 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--12 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--13 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--14 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--15 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--16 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--17 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--18 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--19 {
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.gradient-box--20 {
+  background: linear-gradient(#e66465, #9198e5);
+}
